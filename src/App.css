@@ -1,0 +1,10 @@
+div{
+  font-family: sans-serif;
+}
+.editButton{
+  font-size: 1rem;
+}
+.deleteButton{
+  font-size: 1rem;
+  margin: 0px 10px;
+}
